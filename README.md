@@ -13,7 +13,6 @@
 <br/>
 
 - 👩🏻‍💻 Front-End Developer
-- 👉 Here's my <a target="_blank" href="https://ted1228.notion.site/Front-End-f894efcfd7cf4f41a63ad2de02bb15e1"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br/>
 
