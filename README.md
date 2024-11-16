@@ -46,3 +46,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissa1228&layout=compact)](https://github.com/alissa1228)
 
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/alissa1228"
+  width="600"
+  height="300"
+/>
+</a>
+
